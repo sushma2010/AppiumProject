@@ -1,0 +1,22 @@
+18:50:53.129 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+18:50:53.141 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=Z8pwCngHZsHTViYVq2B9, groupId=com.browserstack, BROWSERSTACK_APP=bs://sample.app, BROWSERSTACK_FRAMEWORK=java, version=1.0, PROJECT_NAME=BrowserStack Sample, archetypeVersion=1.5, archetypeGroupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=sushmaprabhu_SO2KNd, BUILD_NAME=browserstack build, BROWSERSTACK_SOURCE=java:appium-eclipse:v1.0.8]
+18:50:53.144 [Worker-57: Launching mavenrun-4e4eb2c5-1de4-4af4-a431-acc38e0c1a68] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+18:50:59.366 [main] ERROR c.b.launchers.LaunchMavenCommand - Error while executing maven archetype command in catch - java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Process exit value was 1.
+18:52:53.238 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:52:53.238 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:52:53.241 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameWork2cloude
+18:52:53.242 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:52:53.242 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:52:53.243 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameWork2cloude
+18:54:45.824 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:54:45.825 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:54:45.826 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameWork2cloude
+18:54:45.826 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:54:45.827 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:54:45.828 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameWork2cloude
+18:54:50.455 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:54:50.456 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:54:50.462 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameWork2cloude
+18:54:50.464 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:54:50.465 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:54:50.468 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameWork2cloude

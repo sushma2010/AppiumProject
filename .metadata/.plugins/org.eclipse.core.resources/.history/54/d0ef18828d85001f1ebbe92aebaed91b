@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+        <!-- Specify the full class name of the listener -->
+        <listener class-name="Rahullshetty.FrameWork.Utils.Listeners"/>
+    </listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Rahullshetty.FrameWork.testUtils.BaseTest"/>
+      <class name="Rahullshetty.FrameWork.ecommerce_hybrid3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
